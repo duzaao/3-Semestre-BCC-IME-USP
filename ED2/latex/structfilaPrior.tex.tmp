@@ -1,0 +1,26 @@
+\hypertarget{structfilaPrior}{}\doxysection{fila\+Prior Struct Reference}
+\label{structfilaPrior}\index{filaPrior@{filaPrior}}
+
+
+Collaboration diagram for fila\+Prior\+:
+% FIG 0
+\doxysubsection*{Public Attributes}
+\begin{DoxyCompactItemize}
+\item 
+\mbox{\Hypertarget{structfilaPrior_a1beef165459d7f898f9e3362afbb09f1}\label{structfilaPrior_a1beef165459d7f898f9e3362afbb09f1}} 
+int {\bfseries max}
+\item 
+\mbox{\Hypertarget{structfilaPrior_a4aa245db2d56443fbcf316bb96716c53}\label{structfilaPrior_a4aa245db2d56443fbcf316bb96716c53}} 
+int {\bfseries tam}
+\item 
+\mbox{\Hypertarget{structfilaPrior_a659ca617fcdaf1715b079aeb3729cc76}\label{structfilaPrior_a659ca617fcdaf1715b079aeb3729cc76}} 
+int {\bfseries total}
+\item 
+\mbox{\Hypertarget{structfilaPrior_af21d5691fa29c67eb70341f3a927df6e}\label{structfilaPrior_af21d5691fa29c67eb70341f3a927df6e}} 
+\mbox{\hyperlink{structitem}{item}} $\ast$ {\bfseries dados}
+\end{DoxyCompactItemize}
+
+
+The documentation for this struct was generated from the following file\+:\begin{DoxyCompactItemize}
+\item 
+prioridade1.\+h\end{DoxyCompactItemize}

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/eduardo/Área de Trabalho/3_Semestre/ED2/EP1/build",
+  "command": "/usr/bin/g++   -g -std=c++11 -o CMakeFiles/ep1.dir/Ep1-ABB.cpp.o -c \"/home/eduardo/Área de Trabalho/3_Semestre/ED2/EP1/Ep1-ABB.cpp\"",
+  "file": "/home/eduardo/Área de Trabalho/3_Semestre/ED2/EP1/Ep1-ABB.cpp"
+},
+{
+  "directory": "/home/eduardo/Área de Trabalho/3_Semestre/ED2/EP1/build",
+  "command": "/usr/bin/g++   -g -std=c++11 -o CMakeFiles/ep1.dir/ABB.cpp.o -c \"/home/eduardo/Área de Trabalho/3_Semestre/ED2/EP1/ABB.cpp\"",
+  "file": "/home/eduardo/Área de Trabalho/3_Semestre/ED2/EP1/ABB.cpp"
+}
+]

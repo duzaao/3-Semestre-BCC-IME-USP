@@ -1,0 +1,1 @@
+decompress('compress.png',2 ,3,6);
